@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-> **Deployed on Vercel:** [magdeburg-smart-city.vercel.app](https://magdeburg-smart-city.vercel.app)
+> **Deployed on Vercel:** [magdeburg-smart-city.vercel.app](https://magbeburg-smart-city-project.vercel.app/)
 
 ---
 
